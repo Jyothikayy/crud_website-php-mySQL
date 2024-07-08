@@ -23,17 +23,13 @@ Delete Record: Click on the "Delete" button next to a record to remove it from t
 
 Here are some screenshots of the application:
 
-
-![Home Page](![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/66b42967-75b4-4d04-894e-058871a04127)
-)
+![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/0a8a6781-1642-4994-9807-5f3adcfdb9e5)
 
 
-![Add Record Page](![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/4a557ab1-7c93-4e8b-bc34-f45b0bc48bc6)
-)
+![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/cc14dad9-2e83-4500-84e6-c11a346ae9f7)
 
+![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/dc2fbe1e-5609-48a0-bd32-6ed0f41985f0)
 
-![Edit Record Page](![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/cebffa35-9207-4c8d-8f07-e307a519ed16)
-)
 
 
 
