@@ -20,10 +20,13 @@ Edit Record: Click on the "Edit" button next to a record to open a form for edit
 Delete Record: Click on the "Delete" button next to a record to remove it from the database.
 Screenshots
 
-![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/1c38f649-d55e-417b-a888-88fc1d34aef1)
-![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/0cd35cae-a420-4965-a45f-ab65cc4b8219)
-![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/3b3c5fba-c598-416e-ac35-c5857da865df)
+![SignUp page](![image](https://github.com/Jyothikayy/crud_website-php-mySQL/assets/125146575/6947733e-99e7-4b64-aa03-a9f6b2327c3b))
 
+![Add Record Page](path/to/add_record_screenshot.png)
+
+![Edit Record Page](path/to/edit_record_screenshot.png)
+
+![Delete Record Confirmation](path/to/delete_record_confirmation.png)
 
 
 
